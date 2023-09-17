@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/miShorts"
+        android:icon="@drawable/baseline_ondemand_video_24"
+        android:title="Shorts" />
+    <item
+        android:id="@+id/miAdd"
+        android:icon="@drawable/baseline_add_circle_outline_24"
+        android:title=" " />
+    <item
+        android:id="@+id/miSubscription"
+        android:icon="@drawable/baseline_subscriptions_24"
+        android:title="Subscription" />
+    <item
+        android:id="@+id/miLibrary"
+        android:icon="@drawable/baseline_assignment_24"
+        android:title="Library" />
+</menu>
